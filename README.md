@@ -68,6 +68,6 @@ Saya menggunakan **data publik TikTok** yang diambil melalui [Apify](https://api
 ---
 
 ## Link Aplikasi Streamlit
-🔗 [Klik untuk Coba Aplikasi Prediksi View TikTok](#) *(Tambahkan URL Streamlit di sini)*
+🔗 [https://prediksikontenkopikenanganditiktok.streamlit.app/]
 
 ---
