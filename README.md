@@ -62,7 +62,7 @@ Saya menggunakan **data publik TikTok** yang diambil melalui [Apify](https://api
 
 ### 5. Evaluation
 - **RMSLE** (Root Mean Squared Log Error): `0.0966`  
-- **R² Score**: `0.8887`  
+- **R² Score**: `0.8887`  ---> `88.87%`
   > Menunjukkan performa model yang cukup baik dalam memprediksi.
 
 ---
